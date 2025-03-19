@@ -1,0 +1,6 @@
+tensorflow
+numpy
+keras.models
+keras.layers
+
+<!-- Once TensorFlow adds support for Python 3.12, 3.13 in the future, you can upgrade Python again. But for now, use Python 3.10 or 3.11 to run TensorFlow smoothly -->
